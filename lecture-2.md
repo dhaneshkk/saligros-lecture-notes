@@ -14,7 +14,9 @@
     -Diagonals generate distress, except when symmetry creates an implicit vertical axis
     -BOTH PUSH ->| OR |>- PULL CAN ACT HORIZONTALLY
     -Because we evolved with gravity, ONLY PUSH CAN ACT VERTICALLY!
-   
+    -The human body has a hierarchy of scales, from 2 meters down to 1 mm
+    -Process necessary for scaling hierarchy(Perforation, bending, and folding)
+    
     <!---div--->
       -should have facade for human beings to be able to relate to  
       -should have adaptivity to senses.
