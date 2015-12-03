@@ -1,0 +1,12 @@
+#Architectural Harmony#
+  -Architectural Harmony is Harmony estimates density of symmetries, connections, scaling coherence, universal scaling, universal distribution, etc. 
+  -Architectural Harmony can be computed sum of estimation of the following attributes
+      -Refelectional Symmetries at all levels
+      -Transalational Symmetries at all levels 
+      -Rotational Symmetries at all levels
+      -Scaling Symmetries at all levels
+      -Geometerical Connections
+      -Color Harmonization
+  -Method of Estimation
+      -None =0,Some,Noticeable=1, A great Deal=2
+  -Each of the 5 components of the architectural harmony adds up to give a percentage measure.
