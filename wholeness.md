@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Theory of Centers- 15 Principles  of Wholness.](#theory-of-centers--15-principles--of-wholness)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #Theory of Centers- 15 Principles  of Wholness.#
  
   -1. Levels of Scales.

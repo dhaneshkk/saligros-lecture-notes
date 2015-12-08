@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Universal Scaling Hierarchy](#universal-scaling-hierarchy)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Universal Scaling Hierarchy #
   - Alternate terms of the Fibonacci Sequence are a check for subdivisions in an adaptive design.
     -{1, 3, 8, 21, 55, 144, 377, 987, 2584, ... }

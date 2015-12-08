@@ -1,3 +1,11 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Architectural Harmony](#architectural-harmony)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #Architectural Harmony#
   -Architectural Harmony is Harmony estimates density of symmetries, connections, scaling coherence, universal scaling, universal distribution, etc. 
   -Architectural Harmony can be computed sum of estimation of the following attributes

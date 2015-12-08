@@ -1,3 +1,19 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [The theory of centers](#the-theory-of-centers)
+- [Algorithm for generating centers](#algorithm-for-generating-centers)
+- [How to do:](#how-to-do)
+- [Example: find a weakness](#example-find-a-weakness)
+- [Starting from weakness](#starting-from-weakness)
+- [Helmut Leitner's center-generating transformations](#helmut-leitners-center-generating-transformations)
+- [High-level description](#high-level-description)
+- [Alexander’s first and second algorithms](#alexander%E2%80%99s-first-and-second-algorithms)
+- [Algorithms are recursive](#algorithms-are-recursive)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 #The theory of centers#
   -A “center” is a visual field that is the focus of a region
   -The region that focuses on a “center” can be of any size
